@@ -1,0 +1,2 @@
+# Fapcoin-assets
+Fapcoin
